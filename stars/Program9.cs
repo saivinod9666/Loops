@@ -26,6 +26,7 @@ namespace stars
                     Console.Write("* ");
                 }
                 Console.WriteLine("\n");
+                //comment in first commit
             }
 
 
